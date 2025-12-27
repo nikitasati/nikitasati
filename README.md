@@ -12,7 +12,8 @@
 - Machine Learning: Linear Regression, Logistic Regression, KNN, Decision Trees, SVM  
 - Deep Learning: Basics of ANN & CNN  
 - Libraries: NumPy, Pandas, Matplotlib, Scikit-learn  
-- Tools: Git, GitHub, Jupyter Notebook  
+- Tools: Git, GitHub, Jupyter Notebook,Google Colab
+- 
 
 ---
 
