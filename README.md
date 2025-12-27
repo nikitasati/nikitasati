@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Hi, I'm Nikita Sati
 
-<!--
-**nikitasati/nikitasati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE student specializing in Artificial Intelligence & Machine Learning  
+🐍 Strong foundation in Python and Machine Learning concepts  
+🚀 Learning by building real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+
+- Programming: Python  
+- Machine Learning: Linear Regression, Logistic Regression, KNN, Decision Trees, SVM  
+- Deep Learning: Basics of ANN & CNN  
+- Libraries: NumPy, Pandas, Matplotlib, Scikit-learn  
+- Tools: Git, GitHub, Jupyter Notebook  
+
+---
+
+## 🚀 Projects
+
+### 🔹 EduAid Mentor
+- Python-based project to support learning workflows  
+- Focus on clean, modular, and readable code  
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/nikita-sati  
+- GitHub: https://github.com/nikitasati
+
+
